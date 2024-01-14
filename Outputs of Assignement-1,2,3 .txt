@@ -1,0 +1,92 @@
+Assignement-1/Output-1 :
+
+Enter size of the sorted-array : 10
+
+ Enter 10 elements into the sorted-array :
+ 11 17 18 19 27 30 31 32 33 50
+
+ Enter sum of 2 elements : 50
+
+ Numbers are: 33+17=50
+ Numbers are: 32+18=50
+ Numbers are: 31+19=50
+--------------------------------
+Process exited after 17.41 seconds with return value 0
+Press any key to continue . . .
+
+Assignement-1/Output-2 :
+
+ Enter size of the sorted-array : 5
+
+ Enter 5 elements into the sorted-array :
+ 2 4 7 9 10
+
+ Enter sum of 2 elements : 10
+
+ No such pair found having the sum 10
+--------------------------------
+Process exited after 29.7 seconds with return value 0
+Press any key to continue . . .
+
+Assignement-2/Output-1 :
+
+Enter size of the Sorted-array : 9
+
+ Enter 9 elements into the Sorted-array : 1 2 3 4 5 6 7 8 9
+
+ Enter search element : 8
+578888888
+ Element 8 found at position: 8
+--------------------------------
+Process exited after 30.36 seconds with return value 0
+Press any key to continue . . .
+
+Assignement-2/Output-2 :
+
+ Enter size of the Sorted-array : 5
+
+ Enter 5 elements into the Sorted-array : 5 6 7 8 9
+
+ Enter search element : 2
+76555
+ No such element found having value 2
+--------------------------------
+Process exited after 16.75 seconds with return value 0
+Press any key to continue . . .
+
+Assignement-3/Output-1 :
+
+
+ Enter size of the Sorted 2D-array : 3 3
+
+ Enter 9 elements into the sorted-array : 2 4 6 8 10 12 14 16 18
+
+ Entered elements in the 2D-array:
+2 4 6
+8 10 12
+14 16 18
+
+ Enter search element : 16
+
+ Element 16 found at position: row-3 col-2
+--------------------------------
+Process exited after 12.89 seconds with return value 0
+Press any key to continue . . .
+
+Assignement-3/Output-2 :
+
+
+ Enter size of the Sorted 2D-array : 2 3
+
+ Enter 6 elements into the sorted-array : 1 2 3 4 5 6
+
+ Entered elements in the 2D-array:
+1 2 3
+4 5 6
+
+ Enter search element : 7
+
+ No such element found having value 7
+--------------------------------
+Process exited after 22.23 seconds with return value 0
+Press any key to continue . . .
