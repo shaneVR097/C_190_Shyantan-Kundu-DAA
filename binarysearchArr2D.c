@@ -1,18 +1,27 @@
 #include<stdio.h>
+#include<conio.h>
 int main()
 {
 	int r,c,i,j,x,mid,f=0,mn,mx;
 	
-	printf("\n Enter size of array : ");
+	printf("\n Enter size of the Sorted 2D-array : ");
 	scanf("%d %d",&r,&c);
 	
 	int arr[r][c];
 	
-	printf("\n Enter %d elements into the array : ",(r*c));
+	printf("\n Enter %d elements into the sorted-array : ",(r*c));
 	for(i=0;i<r;i++)
 		for(j=0;j<c;j++)
 			scanf("%d",&arr[i][j]);
-		
+			
+	printf("\n Entered elements in the 2D-array:\n");
+	for(i=0;i<r;i++)
+	{
+		for(j=0;j<c;j++)
+			printf("%d ",arr[i][j]);
+		printf("\n");
+	}	
+	
 	printf("\n Enter search element : ");
 		scanf("%d",&x);
 	
@@ -38,4 +47,5 @@ int main()
 
 	if(f==0) 
         printf("\n No such element found having value %d",x);
+    getch();
 }
