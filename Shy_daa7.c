@@ -67,3 +67,16 @@ int main()
 	}
 	printf("\n 2nd smallest element is: %d\n 2nd greatest element: %d \n",a[1],a[n-2]);
 }
+
+/*
+output:
+Enter number of elements in array: 10
+
+ Enter 10 elements into the array:
+ 3 5 6 7 1 8 9 0 2 4
+
+ Sorted elements of the array:
+ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 
+ 2nd smallest element is: 1
+ 2nd greatest element: 8 
+*/
